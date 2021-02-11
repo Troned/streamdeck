@@ -1,0 +1,38 @@
+.button {
+    background-color: #333333;
+    color: #fff;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+    outline: none;
+}
+
+.button:hover {
+    background-color: #222222;
+}
+
+body {
+    background-color: #222228;
+}
+
+.main {
+    width: 1300px;
+    margin: 0px;
+    float: left;
+}
+
+.nav {
+    width: 350px;
+    float: right;
+}
+
+.button img {
+    margin-top: -1px;
+    margin-left: -6px;
+    width: 280px;
+    height: 280px;
+}
